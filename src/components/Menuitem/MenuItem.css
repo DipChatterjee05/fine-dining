@@ -8,7 +8,7 @@ app__menuitem {
 .app__menuitem-head {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
 }
 
 .app__menuitem-sub {
